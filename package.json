@@ -1,5 +1,5 @@
 {
-  "name": "projeto-back-end",
+  "name": "meu-primeiro-projeto-back-end",
   "version": "1.0.0",
   "main": "oi.js",
   "scripts": {
@@ -10,6 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.0"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.1",
+    "uuid": "^10.0.0"
   }
 }
